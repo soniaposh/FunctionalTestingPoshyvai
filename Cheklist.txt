@@ -1,0 +1,25 @@
+Checklist for http://prestashop.qatestlab.com.ua/ru/
+1. Check the website on different resolutions (desktop, mobile etc).
+2. Test the site for compatibility with different browsers.
+3. Check for broken links and images.
+4. Chek if home link is there on every single page.
+5. Chek if all fields, text blocks, buttons etc are properly aligned.
+6. Check if the text on website is without any spelling or grammatical errors in all avaliable languages.
+7. Check if all of the items have relevant description.
+8. Test all input fields for special characters.
+9. Test the sorting functionality.
+10. Check if all filters work properly.
+11. Test the max length of every field to make sure that the inputted data is correct.
+12. Check whether or not the numeric fields accept the alphabets.
+13. Check that the products displayed are related to what was searched for.
+14. Test the personal accounts registration procedure.
+15. Test the ordering scenario for unregistered user.
+16. Check if the shopping cart displays correct amount of items added to it.
+17. Check if the cart correctly displays the total price of all items.
+18. Check if the cart still holds all the products added to it after closing the browser and reopening the site.
+19. Check that the number of products per page matches the requirement.
+20. Check that all items on next page are different to the previous page, i.e. no duplicates.
+21. Check that when both sort and filter have been applied, they remain throghout the pages.
+22. Test that it is possible to purchase an item without having to create an account.
+23. Check the behavior of login feature on different pages (wether it returns user to the previous page or opens an account details).
+24. Test the login and logout.
